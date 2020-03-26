@@ -1,0 +1,16 @@
+a:visited {
+    color: #0082D1;
+}
+
+.table-hover > tbody > tr:hover {
+    background-color: #76B900;
+}
+
+body {
+    font-family: verdana;
+}
+#tt{
+    width: 100%;
+    margin: 10px auto;
+    padding: 5px;
+}
